@@ -285,7 +285,7 @@ border-radius: 2px;
  .btn__slide h3{
     font-size: 1.4rem;
     color:#ffff;
-    
+    margin:0;
  }
  .btn__slide-box:hover, .btn__slide-text:hover{
     background: #d80100;
